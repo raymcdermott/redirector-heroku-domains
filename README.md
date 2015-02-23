@@ -2,7 +2,7 @@
 
 A command line interface to add domains to an Heroku app so that it can support domain forwarding.
 
-This is a helper script to domain-redirector [insert-github-link]
+This is a helper script to domain-redirector [https://github.com/raymcdermott/domain-redirector]
 
 ## Details
 
